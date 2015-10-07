@@ -1,0 +1,13 @@
+h1, p {
+  text-align: center;
+
+}
+
+table {
+  width: 50%;
+  margin-left: 25%
+}
+
+.month {
+  font-weight: bold;
+}
